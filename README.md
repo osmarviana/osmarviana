@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osmarviana
-- 👀 I’m interested in  adiquirir conhecimento na programação
-- 🌱 I’m currently learning  front end em Javascript 
-- 💞️ I’m looking to collaborate on  qualquer projeto que me traga aprendizado e oprtunidades
+- 👀 I'm interested in acquiring knowledge in programming
+- 🌱 I'm currently learning Javascript front-end, and I already have some knowledge in HTML and CSS 
+- 💞️ I am willing to collaborate with any project that brings me learning and opportunities
 - 📫 Como chegar: osmarvianatorres@gmail.com      
 
 <!---
